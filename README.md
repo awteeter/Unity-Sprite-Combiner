@@ -9,7 +9,7 @@ Sprite combination is useful for performance, as each individual sprite is anoth
 them, the GPU can batch sprite drawing and save you valuable performance! The performance benefit gained is proportional to
 the amount of sprite renderers combined.
 
-[Available as a Unity Asset here!](https://assetstore.unity.com/packages/tools/sprite-management/sprite-combiner-pro-252326?aid=1011lzKVc)
+[Available as a Unity Asset here!](https://assetstore.unity.com/packages/tools/sprite-management/sprite-combiner-pro-252326?aid=1011lzKVc) [AFFILIATE LINK]
 
 ## How To Use
 ### Sprite Renderer Combiner
